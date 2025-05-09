@@ -1,3 +1,36 @@
+//(Brute Force)
+//T.C : O(n * n!)
+//S.C : O(n * n!), storing all permutations in set
+class Solution {
+public:
+    int countBalancedPermutations(string num) {
+        sort(num.begin(), num.end()); 
+        unordered_set<string> seen;
+        int count = 0;
+
+        do {
+            if (seen.count(num)) 
+                continue;
+            seen.insert(num);
+            int evenSum = 0, oddSum = 0;
+            for (int i = 0; i < num.size(); ++i) {
+                int digit = num[i] - '0';
+                if (i % 2 == 0) evenSum += digit;
+                else oddSum += digit;
+            }
+            if (evenSum == oddSum) {
+                count++;
+            }
+        } while (next_permutation(num.begin(), num.end()));
+
+        return count;
+    }
+};
+
+
+//(Recursion + Memoization)
+//T.C : O(10 * n^2 * Sum)
+//S.C : O(10 ^ n * Sum)
 class Solution {
 public:
     int n;
@@ -5,7 +38,6 @@ public:
     int M = 1e9 + 7;
     long long totalPermPossible = 0;
 
-    //Binary exponentian
     int findPower(long long a, long long b) {
         if(b == 0) {
             return 1;
