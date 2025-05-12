@@ -1,3 +1,6 @@
+//(Trying all possibilities using 3 for loops for 3 digits)
+//T.C : O(n^3 + SlogS), S = total 3 digits even numbers
+//S.C : O(S)
 class Solution {
 public:
     vector<int> findEvenNumbers(vector<int>& nums) {
