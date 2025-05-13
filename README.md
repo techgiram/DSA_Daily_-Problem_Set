@@ -32,14 +32,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
 | ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2215-finding-3-digit-even-numbers) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
