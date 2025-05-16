@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0002-add-two-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3637-count-number-of-balanced-permutations) |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0033-search-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
