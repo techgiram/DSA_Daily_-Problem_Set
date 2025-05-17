@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0075-sort-colors) |
 | [1293-three-consecutive-odds](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2215-finding-3-digit-even-numbers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
