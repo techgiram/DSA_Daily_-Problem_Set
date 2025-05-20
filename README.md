@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3639-zero-array-transformation-i) |
 ## Graph
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
