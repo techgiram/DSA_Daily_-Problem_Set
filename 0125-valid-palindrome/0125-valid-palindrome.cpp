@@ -1,8 +1,11 @@
+// approach - Two pointer approach
+//T.C = O(N)
+// S.P = O(1)
 class Solution {
 public:
     bool isAlphaNum(char ch){
         if((ch >= '0' && ch <= '9') ||
-           (tolower(ch) >= 'a' && tolower(ch) < 'z')){
+           (tolower(ch) >= 'a' && tolower(ch) <= 'z')){
              return true;
            }
            return false;
