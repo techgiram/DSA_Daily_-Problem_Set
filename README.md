@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0002-add-two-numbers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3321-type-of-triangle) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
