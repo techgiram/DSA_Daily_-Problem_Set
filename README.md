@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0002-add-two-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3201-distribute-candies-among-children-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
