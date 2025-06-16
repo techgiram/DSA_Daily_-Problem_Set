@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1293-three-consecutive-odds) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
