@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0125-valid-palindrome) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
