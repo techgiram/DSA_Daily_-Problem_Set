@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0125-valid-palindrome) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0005-longest-palindromic-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0141-linked-list-cycle) |
