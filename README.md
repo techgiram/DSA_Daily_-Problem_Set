@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0268-missing-number) |
+| [0407-trapping-rain-water-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0407-trapping-rain-water-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0945-snakes-and-ladders](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1293-three-consecutive-odds) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0407-trapping-rain-water-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3647-zero-array-transformation-iii) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
