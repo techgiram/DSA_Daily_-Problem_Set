@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0075-sort-colors) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0011-container-with-most-water) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0141-linked-list-cycle) |
