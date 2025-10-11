@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3639-zero-array-transformation-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3637-count-number-of-balanced-permutations) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3647-zero-array-transformation-iii) |
 ## Enumeration
 |  |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -177,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0141-linked-list-cycle) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Prefix Sum
 |  |
