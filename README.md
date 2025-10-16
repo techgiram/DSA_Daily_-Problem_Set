@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0268-missing-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3201-distribute-candies-among-children-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
