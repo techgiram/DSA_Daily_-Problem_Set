@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0268-missing-number) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
@@ -280,5 +283,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
