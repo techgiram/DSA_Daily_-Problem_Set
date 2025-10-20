@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0125-valid-palindrome) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3201-distribute-candies-among-children-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
