@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2169-simple-bank-system](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2169-simple-bank-system](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Stack
@@ -314,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2174-next-greater-numerically-balanced-number) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
