@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0945-snakes-and-ladders) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
