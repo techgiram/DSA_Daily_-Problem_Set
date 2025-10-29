@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3637-count-number-of-balanced-permutations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0268-missing-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
