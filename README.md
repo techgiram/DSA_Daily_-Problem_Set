@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0005-longest-palindromic-substring) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0011-container-with-most-water) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/0020-valid-parentheses) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bitmask
 |  |
 | ------- |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/2169-simple-bank-system) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
