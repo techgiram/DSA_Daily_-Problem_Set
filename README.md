@@ -354,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/techgiram/DSA_Daily_-Problem_Set/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
